@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InventoryMgmt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|d:\\inventorymgmt\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|d:\\inventorymgmt\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|d:\\inventorymgmt\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\admin\\addedituser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\addedituser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|d:\\inventorymgmt\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\admin\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0F2BD1-BF4D-4121-A428-F8E2BFD3D9DA}|..\\DataLayer\\DataLayer.csproj|d:\\datalayer\\dalregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1014DB-6B20-4751-9CAE-34D49EB7052A}|..\\BAL\\BAL.csproj|d:\\bal\\registrationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\admin\\addedituser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\addedituser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD6491-2D1D-4A1C-B5B1-87D883228EE7}|..\\BOM\\BOM.csproj|d:\\bom\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\userregistraton.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:userregistraton.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\userregistraton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:userregistraton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\admin\\userdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\userdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OnlineApplication\\OnlineApplication\\RegistrationDetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\admin\\commoncontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:admin\\commoncontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|D:\\InventoryMgmt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D8878AB-9B1F-4C85-9BE0-ABE289F95E77}|InventoryMgmt.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "Admin\\AdminDashboard.aspx",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\AdminDashboard.aspx",
+              "RelativeToolTip": "Admin\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T02:28:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditUser.aspx.cs",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\AddEditUser.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\AddEditUser.aspx.cs",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\AddEditUser.aspx.cs",
+              "RelativeToolTip": "Admin\\AddEditUser.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA4wCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:09:51.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDetails.aspx.cs",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\UserDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\UserDetails.aspx.cs",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\UserDetails.aspx.cs",
+              "RelativeToolTip": "Admin\\UserDetails.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:18:01.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommonControl.ascx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\CommonControl.ascx",
+              "RelativeDocumentMoniker": "Admin\\CommonControl.ascx",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\CommonControl.ascx",
+              "RelativeToolTip": "Admin\\CommonControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-05-27T02:44:07.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditUser.aspx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\AddEditUser.aspx",
+              "RelativeDocumentMoniker": "Admin\\AddEditUser.aspx",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\AddEditUser.aspx",
+              "RelativeToolTip": "Admin\\AddEditUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-28T02:01:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "LoginPage.aspx",
+              "ToolTip": "D:\\InventoryMgmt\\LoginPage.aspx",
+              "RelativeToolTip": "LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-28T01:53:26.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\InventoryMgmt\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-02T01:48:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\InventoryMgmt\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\InventoryMgmt\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-02T02:03:30.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\InventoryMgmt\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:09:24.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\AdminDashboard.aspx.cs",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "Admin\\AdminDashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:28:25.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetails.aspx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Admin\\UserDetails.aspx",
+              "RelativeDocumentMoniker": "Admin\\UserDetails.aspx",
+              "ToolTip": "D:\\InventoryMgmt\\Admin\\UserDetails.aspx",
+              "RelativeToolTip": "Admin\\UserDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T02:10:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationDetails.cs",
+              "DocumentMoniker": "D:\\BAL\\RegistrationDetails.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\RegistrationDetails.cs",
+              "ToolTip": "D:\\BAL\\RegistrationDetails.cs",
+              "RelativeToolTip": "..\\BAL\\RegistrationDetails.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:25:36.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALRegistration.cs",
+              "DocumentMoniker": "D:\\DataLayer\\DALRegistration.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\DALRegistration.cs",
+              "ToolTip": "D:\\DataLayer\\DALRegistration.cs",
+              "RelativeToolTip": "..\\DataLayer\\DALRegistration.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAcwHwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:21:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "userRegistraton.aspx",
+              "DocumentMoniker": "D:\\InventoryMgmt\\userRegistraton.aspx",
+              "RelativeDocumentMoniker": "userRegistraton.aspx",
+              "ToolTip": "D:\\InventoryMgmt\\userRegistraton.aspx",
+              "RelativeToolTip": "userRegistraton.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-28T02:01:42.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BOM\\User.cs",
+              "RelativeDocumentMoniker": "..\\BOM\\User.cs",
+              "ToolTip": "D:\\BOM\\User.cs",
+              "RelativeToolTip": "..\\BOM\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:08:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "userRegistraton.aspx.cs",
+              "DocumentMoniker": "D:\\InventoryMgmt\\userRegistraton.aspx.cs",
+              "RelativeDocumentMoniker": "userRegistraton.aspx.cs",
+              "ToolTip": "D:\\InventoryMgmt\\userRegistraton.aspx.cs",
+              "RelativeToolTip": "userRegistraton.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:09:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "D:\\InventoryMgmt\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "LoginPage.aspx.cs",
+              "ToolTip": "D:\\InventoryMgmt\\LoginPage.aspx.cs",
+              "RelativeToolTip": "LoginPage.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:28:04.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistrationDetails.aspx",
+              "DocumentMoniker": "D:\\OnlineApplication\\OnlineApplication\\RegistrationDetails.aspx",
+              "RelativeDocumentMoniker": "..\\OnlineApplication\\OnlineApplication\\RegistrationDetails.aspx",
+              "ToolTip": "D:\\OnlineApplication\\OnlineApplication\\RegistrationDetails.aspx",
+              "RelativeToolTip": "..\\OnlineApplication\\OnlineApplication\\RegistrationDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T02:36:19.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\InventoryMgmt\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\InventoryMgmt\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T02:14:28.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
