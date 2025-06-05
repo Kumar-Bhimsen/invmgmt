@@ -71,6 +71,7 @@
     <Content Include="Admin\AddEditUser.aspx" />
     <Content Include="Admin\AdminDashboard.aspx" />
     <Content Include="Admin\CommonControl.ascx" />
+    <Content Include="Admin\RoleDetails.aspx" />
     <Content Include="Admin\UserDetails.aspx" />
     <Content Include="assets\css\main.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
@@ -166,6 +167,13 @@
     </Compile>
     <Compile Include="Admin\CommonControl.ascx.designer.cs">
       <DependentUpon>CommonControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoleDetails.aspx.cs">
+      <DependentUpon>RoleDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\RoleDetails.aspx.designer.cs">
+      <DependentUpon>RoleDetails.aspx</DependentUpon>
     </Compile>
     <Compile Include="Admin\UserDetails.aspx.cs">
       <DependentUpon>UserDetails.aspx</DependentUpon>

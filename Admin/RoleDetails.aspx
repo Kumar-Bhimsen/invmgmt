@@ -1,5 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="UserDetails.aspx.cs" Inherits="InventoryMgmt.Admin.UserDetails" %>
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="UserDetails.aspx.cs" Inherits="InventoryMgmt.Admin.UserDetails" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="RoleDetails.aspx.cs" Inherits="InventoryMgmt.Admin.RoleDetails" %>
 
 <%@ Register Src="~/Admin/CommonControl.ascx" TagPrefix="uc1" TagName="CommonControl" %>
 
@@ -99,27 +98,20 @@
                                               </div>
                                             <table class="table table-striped">
                                                 <tr>
-                                                    <th>FullName</th>
-                                                    <th>Fathers Name</th>
-                                                    <th>Email</th>
-                                                    <th>Mobile</th>
-                                                    <th>Aadhaar Name</th>
-                                                    <th>Address</th>
+                                                    <th>RoleName</th>
+                                                    <th>IsActive</th>                                                   
                                                     <th>Action</th>
                                                 </tr>
                                                 <asp:Repeater ID="rptrUser" runat="server">
                                                     <ItemTemplate>
                                                         <tr>
 
-                                                            <td><%#Eval("FullName")%></td>
-                                                            <td><%#Eval("FathersName")%></td>
-                                                            <td><%#Eval("EmailId")%></td>
-                                                            <td><%#Eval("Mobile")%></td>
-                                                            <td><%#Eval("Aadhaar")%></td>
-                                                            <td><%#Eval("Address")%></td>
+                                                            <td><%#Eval("RoleName")%></td>
+                                                            <td><%#Eval("IsActive")%></td>
+                                                          
                                                             <td style="width: 200px">
 
-                                                                <asp:HiddenField ID="hdnUserId" runat="server" Value='<%# Eval("UserId") %>' />
+                                                                <asp:HiddenField ID="hdnRoleId" runat="server" Value='<%# Eval("RoleId") %>' />
                                                                 <asp:Button ID="Button1" runat="server" CssClass="btn btn-success" Text="Edit" OnClick="btnEdit_Click" />
                                                                 <asp:Button ID="Button2" runat="server" CssClass="btn btn-danger" Text="Delete" OnClick="btnDelete_Click" />
 
